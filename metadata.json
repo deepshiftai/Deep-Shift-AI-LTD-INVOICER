@@ -1,0 +1,7 @@
+{
+  "name": "Deep Shift AI - Digital Invoice & Receipt Generator",
+  "description": "A web-based application to generate professional digital invoices and receipts with unique QR codes, maintain historical records, and export pixel-perfect PDF documents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
